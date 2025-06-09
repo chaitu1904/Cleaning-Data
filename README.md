@@ -19,7 +19,7 @@ This repository showcases various **data cleaning projects** that demonstrate es
 
 ## 📂 Repository Structure
 
-Data-Cleaning-Projects/
+**Data-Cleaning-Projects**/
 │
 ├── projects/
 │ ├── project_1_airbnb_cleaning.ipynb
